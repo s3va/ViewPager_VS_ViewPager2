@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Tabbed Activity Application</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="very_nice">Very nice</string>
+    <string name="some_text">Some text</string>
+</resources>
