@@ -13,4 +13,5 @@ KeyBoard hides EditText.
 ![ViewPager2](https://user-images.githubusercontent.com/47842157/219851893-26a98131-819c-42dc-839a-0877c63724c9.png)
 ![ViewPager2KeyBoard](https://user-images.githubusercontent.com/47842157/219853195-cf6f8445-dddb-41e4-a395-b89e34efb7db.png)
 
-Why KeyBoard popUps float button and hide EditText?
+Why, when using ViewPager2, the software keyboard hides the EditText and raises the floating button? 
+When using ViewPager, everything is done the other way around. Hides the floating button and leaves the EditText visible.
